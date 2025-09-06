@@ -1,0 +1,21 @@
+h1 {
+text-align: center;
+color: black;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.imagens {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+}
+body{
+    background-color: rgb(109, 109, 141);
+}
